@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="QuartzSpringTest"
+  id="myeclipse.1469352143620"
+  context-root="/QuartzSpringTest"
+  j2ee-spec="6.0"
+  archive="QuartzSpringTest.war">
+  <attributes>
+    <attribute name="webrootdir" value="src/main/webapp" />
+  </attributes>
+</project-module>
+
